@@ -1,0 +1,11 @@
+{
+  "name": "vincenty",
+  "version": "0.0.1",
+  "description": "Implements Vincenty's Formulae for distance and projection as described at https://en.wikipedia.org/wiki/Vincenty%27s_formulae",
+  "main": "vincenty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
